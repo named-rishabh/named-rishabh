@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+
 ![](https://komarev.com/ghpvc/?username=named-rishabh&color=blue)
 
 <h3 align="center">
@@ -25,7 +26,7 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,reactjs" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,react" />
 </p>
 
 <p align="center">
@@ -35,8 +36,6 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=named-rishabh&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
