@@ -110,6 +110,6 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/named-rishabh/named-rishabh/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
