@@ -16,10 +16,9 @@ Machine Learning • Data Science • Astronomy Enthusiast
 
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin">
-<img src=" https://media.licdn.com/dms/image/v2/D5603AQE3gkjT3Gp9SQ/profile-displayphoto-scale_100_100/B56Z0_I7OqJwAc-/0/1774880801844?e=1784160000&v=beta&t=k2nwAs7ysFKrJV1t9ojv9VN0c7_66FAW1s05-DZ3tM0"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 
-<a href="https://instagram.com/yourinsta">
+<a href="https://instagram.com/yourinsta](https://www.instagram.com/namedrishabh">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
@@ -29,7 +28,7 @@ Machine Learning • Data Science • Astronomy Enthusiast
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
