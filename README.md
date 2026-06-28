@@ -25,10 +25,10 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Astronomy+Enthusiast;Python+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast"/>
 </p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1451579504123449454?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1451579504123449454)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1451579504123449454)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1451579504123449454)](https://dev.discordprofiles.me/openspotify/1451579504123449454)
 
 <p align="center">
 <a href="https://linkedin.com/in/your-linkedin">
@@ -40,7 +40,7 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,react" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,react," />
 </p>
 
 <p align="center">
