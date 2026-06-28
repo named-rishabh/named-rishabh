@@ -25,7 +25,7 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,reactjs" />
 </p>
 
 <p align="center">
