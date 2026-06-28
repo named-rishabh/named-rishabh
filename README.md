@@ -36,7 +36,7 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/named-rishabh/output/github-contribution-grid-snake.svg"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=named-rishabh&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 [![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
