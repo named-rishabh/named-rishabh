@@ -25,6 +25,11 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Astronomy+Enthusiast;Python+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast"/>
 </p>
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
 <p align="center">
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
