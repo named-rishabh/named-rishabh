@@ -44,10 +44,10 @@ Machine Learning And Data Science Passionate • Astronomy Admirer • Quantum C
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
