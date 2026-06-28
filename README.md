@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=named-rishabh&color=blue)
 
 <h3 align="center">
-Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing Enthusiast
+Machine Learning And Data Science Passionate • Astronomy Admirer • Quantum Computing Enthusiast
 </h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
