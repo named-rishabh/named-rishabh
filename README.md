@@ -109,5 +109,7 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-dark&hide_border=true"/>
 </p>
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
