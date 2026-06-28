@@ -45,8 +45,8 @@ Machine Learning And Data Science Passionate • Astronomy Admirer • Quantum C
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
-</p>
-<p align ='center'>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
 </p>
 
