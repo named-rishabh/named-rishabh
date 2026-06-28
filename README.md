@@ -25,7 +25,7 @@ Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Astronomy+Enthusiast;Python+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast"/>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
