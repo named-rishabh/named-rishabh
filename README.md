@@ -43,13 +43,10 @@ Machine Learning And Data Science Passionate • Astronomy Admirer • Quantum C
 <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,tensorflow,pytorch,opencv,mysql,mongodb,django,javascript,react," />
 </p>
 
-<p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
+<p align="center" margin='2vh'>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=github-compact"/>
 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=github-compact"/>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
