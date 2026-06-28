@@ -11,7 +11,7 @@ Machine Learning • Data Science • Astronomy Enthusiast
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️-blue?style=for-the-badge)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Astronomy+Enthusiast;Python+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Astronomy+Enthusiast;Python+Developer;Open+Source+Contributor;Quantum+Physics+Enthusiast"/>
 </p>
 
 <p align="left">
@@ -32,3 +32,11 @@ Machine Learning • Data Science • Astronomy Enthusiast
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
+
+![](https://komarev.com/ghpvc/?username=named-rishabh&color=blue)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/named-rishabh/output/github-contribution-grid-snake.svg"/>
+</p>
+
+[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
