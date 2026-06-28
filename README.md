@@ -81,6 +81,9 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
+<a href="mailto:rishabhyadav.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 </p>
 
 ---
