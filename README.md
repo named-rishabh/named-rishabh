@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishabh Yadav</h1>
+![](https://komarev.com/ghpvc/?username=named-rishabh&color=blue)
 
 <h3 align="center">
-Machine Learning • Data Science • Astronomy Enthusiast
+Machine Learning • Data Science • Astronomy Enthusiast • Quantum Computing Enthusiast
 </h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,13 +31,12 @@ Machine Learning • Data Science • Astronomy Enthusiast
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=named-rishabh&show_icons=true&theme=tokyonight"/>
 </p>
-
+<p align ='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=tokyonight"/>
-
-![](https://komarev.com/ghpvc/?username=named-rishabh&color=blue)
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/named-rishabh/output/github-contribution-grid-snake.svg"/>
 </p>
 
-[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Rishabh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
