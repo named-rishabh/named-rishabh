@@ -102,3 +102,16 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=named-rishabh&theme=github-dark&hide_border=true"/>
 </p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=named-rishabh&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=named-rishabh&theme=github-dark&hide_border=true"/>
+</p>
