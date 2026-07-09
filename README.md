@@ -88,6 +88,7 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 </p>
 
 ---
+<!-- This is a comment 
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -104,7 +105,7 @@ Machine Learning • Data Science • Astronomy • Quantum Computing
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=named-rishabh&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
+-->
 ---
 
 ## 📊 Contribution Graph
